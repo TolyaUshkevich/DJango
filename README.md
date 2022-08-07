@@ -1,0 +1,1 @@
+Little DJango practise
